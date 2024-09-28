@@ -3,7 +3,7 @@ import React from "react"
 const Navbar =()=>{
     return(
         <div>
-            Navbar
+         <button type="button" className="btn btn-primary">Primary</button>
         </div>
     )
 }

@@ -4,6 +4,7 @@ import App from './App.jsx'
 import './index.css'
 import { store } from './Redux/store/index.jsx'
 import { Provider } from 'react-redux'
+import 'bootstrap/dist/css/bootstrap.css';
 
 
 
